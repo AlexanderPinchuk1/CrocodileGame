@@ -1,0 +1,13 @@
+D:\Study\КСиС\CrocodileGame\bin\Debug\CrocodileGame.exe.config
+D:\Study\КСиС\CrocodileGame\bin\Debug\CrocodileGame.exe
+D:\Study\КСиС\CrocodileGame\bin\Debug\CrocodileGame.pdb
+D:\Study\КСиС\CrocodileGame\obj\Debug\CrocodileGame.csprojAssemblyReference.cache
+D:\Study\КСиС\CrocodileGame\obj\Debug\CrocodileGame.FAuth.resources
+D:\Study\КСиС\CrocodileGame\obj\Debug\CrocodileGame.Properties.Resources.resources
+D:\Study\КСиС\CrocodileGame\obj\Debug\CrocodileGame.csproj.GenerateResource.cache
+D:\Study\КСиС\CrocodileGame\obj\Debug\CrocodileGame.csproj.CoreCompileInputs.cache
+D:\Study\КСиС\CrocodileGame\obj\Debug\CrocodileGame.exe
+D:\Study\КСиС\CrocodileGame\obj\Debug\CrocodileGame.pdb
+D:\Study\КСиС\CrocodileGame\obj\Debug\CrocodileGame.Forms.FGame.resources
+D:\Study\КСиС\CrocodileGame\obj\Debug\CrocodileGame.FMenu.resources
+D:\Study\КСиС\CrocodileGame\obj\Debug\CrocodileGame.Forms.FWordСhoice.resources

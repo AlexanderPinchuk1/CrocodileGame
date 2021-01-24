@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CrocodileGame.LineDots">
+    <Position X="0.5" Y="1" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAgAAAAAAAAAABAAAAAAAAAAAAAAQAAAAABgA=</HashCode>
+      <FileName>LineDots.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CrocodileGame.ConnectionTools.Communication">
+    <Position X="7.75" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgIAAAAAAAAQAgAAAQQAAAAAAAAAIAABgCAAAAA=</HashCode>
+      <FileName>ConnectionTools\Сommunication.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CrocodileGame.ConnectionTools.Listner">
+    <Position X="4.75" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAASAAAAIAAAAAAAaAAQBACAAACAgAAAAEA=</HashCode>
+      <FileName>ConnectionTools\Listner.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CrocodileGame.Message">
+    <Position X="2" Y="4" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEgAAQAAAAAAAAAAAgBCBAAAAEAAQACAAAAAI=</HashCode>
+      <FileName>Message.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CrocodileGame.ConnectionTools.Client">
+    <Position X="6" Y="4.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAQAABAAAACAAAAQILAAMAAAAAIACAAAAAAA=</HashCode>
+      <FileName>ConnectionTools\Client.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
